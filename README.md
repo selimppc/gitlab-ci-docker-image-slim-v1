@@ -1,0 +1,1 @@
+# gitlab-ci-docker-image-slim-v1
