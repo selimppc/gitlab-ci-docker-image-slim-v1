@@ -12,8 +12,7 @@ RUN apt-get update && apt-get install -y \
     make \
     libc-dev \
     libffi-dev \
-    openssl \
-    openssl-dev \
+    libssl-dev \
     wget \
     bash \
     jq \
